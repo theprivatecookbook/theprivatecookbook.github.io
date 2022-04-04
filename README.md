@@ -1,2 +1,2 @@
-# The Private Cookbook
-Meals that bring family around one table
+# Meals that bring family around one table
+by Captain Kartoffel
