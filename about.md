@@ -1,5 +1,3 @@
-layout: page
-title: "PAGE TITLE"
-permalink: /about/contact/
-
 # Why?
+
+[back to main](https://theprivatecookbook.github.io)
