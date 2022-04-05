@@ -1,6 +1,6 @@
 ## 111 Welcome to GitHub Pages
 
-### [ABOUT page](https://theprivatecookbook.github.io/about.html)
+### [ABOUT page](https://theprivatecookbook.github.io/about/about.html)
 
 
 You can use the [editor on GitHub](https://github.com/theprivatecookbook/theprivatecookbook.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
