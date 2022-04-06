@@ -2,9 +2,9 @@
 _by Captain Kartoffel_
 
 
-##Feasts
+## Feasts
 [Steak](https://theprivatecookbook.github.io/food/meals/steak.html)
-##Puddings
+## Puddings
 [Carrot Cake](https://theprivatecookbook.github.io/food/puddings/carrot_cake.html)
-##And inbetween
-[Apfelmus](https://theprivatecookbook.github.io/food/puddings/apfelmus.html)
+## And in between
+[Apfelmus](https://theprivatecookbook.github.io/food/other/apfelmus.html)
