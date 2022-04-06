@@ -2,7 +2,7 @@
 
 ## Next step:
 1. decide on page layout
-2. make standard - so it can be adjust fast later
+2. make standard (like posts, but specific) - so it can be adjust fast later
 3. add image
 4. add ingredients
 
