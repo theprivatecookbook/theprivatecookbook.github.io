@@ -1,5 +1,10 @@
 # The Private Cookbook
 
+##To Do
+[] personalize colors
+[] add first post with foto and incredient list
+[] create list of all recipes
+
 ## Feasts
 [Steak](https://theprivatecookbook.github.io/2022/04/11/Carrot-Cake.html)
 ## Puddings
