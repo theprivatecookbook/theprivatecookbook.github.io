@@ -1,3 +1,5 @@
+# The Private Cookbook
+
 ## Feasts
 [Steak](https://theprivatecookbook.github.io/2022/04/11/Carrot-Cake.html)
 ## Puddings
